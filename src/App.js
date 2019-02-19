@@ -9,8 +9,9 @@ class App extends Component {
     return (
       <div className="demo-big-content">
         <Layout>
-          <Header title="Sean McCann" scroll>
+          <Header className="header-color" title="Sean McCann" scroll>
             <Navigation>
+              <Link to="/">Home</Link>
               <Link to="/about">About me</Link>
               <Link to="/projects">Projects</Link>
               <Link to="/resume">Resume</Link>
@@ -19,6 +20,7 @@ class App extends Component {
           </Header>
           <Drawer title="Title">
             <Navigation>
+              <Link to="/">Home</Link>
               <Link to="/about">About me</Link>
               <Link to="/projects">Projects</Link>
               <Link to="/resume">Resume</Link>
