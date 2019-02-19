@@ -17,7 +17,7 @@ class Projects extends Component {
             <CardTitle className="card-title" style={{background: 'url(https://pngimage.net/wp-content/uploads/2018/06/node-js-logo-png-1.png) center / cover'}} ></CardTitle>
             <CardText>
             <h4>Spotify playlist maker</h4> 
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Lorem Ipsum
             </CardText>
             <CardActions border>
                 <Button colored href="https://github.com/SeanEmac/SpotifyPlaylistApp" rel="noopener noreferrer" target="_blank">GitHub</Button>
@@ -29,7 +29,7 @@ class Projects extends Component {
             <CardTitle className="card-title" style={{background: 'url(https://pngimage.net/wp-content/uploads/2018/06/node-js-logo-png-1.png) center / cover'}} ></CardTitle>
             <CardText>
             <h4>Internship search</h4>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Lorem Ipsum
             </CardText>
             <CardActions border>
                 <Button colored href="https://github.com/SeanEmac/InternshipWebApp" rel="noopener noreferrer" target="_blank">GitHub</Button>
@@ -46,7 +46,7 @@ class Projects extends Component {
             <CardTitle className="card-title" style={{background: 'url(https://openclipart.org/image/2400px/svg_to_png/248484/387.png) bottom / cover'}} ></CardTitle>
             <CardText>
             <h4>Rent data visualisation</h4>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Lorem Ipsum
             </CardText>
             <CardActions border>
                 <Button colored href="https://github.com/SeanEmac/Ireland-Rent-Data" rel="noopener noreferrer" target="_blank">GitHub</Button>
@@ -57,7 +57,7 @@ class Projects extends Component {
             <CardTitle className="card-title" style={{background: 'url(https://openclipart.org/image/2400px/svg_to_png/248484/387.png) bottom / cover'}} ></CardTitle>
             <CardText>
             <h4>Slack Bot</h4>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Lorem Ipsum
             </CardText>
             <CardActions border>
                 <Button colored href="https://github.com/SeanEmac/SlackBot" rel="noopener noreferrer" target="_blank">GitHub</Button>
@@ -73,7 +73,7 @@ class Projects extends Component {
             <CardTitle className="card-title" style={{background: 'url(https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Java.png) center / cover'}}></CardTitle>
             <CardText>
             <h4>Client-Server chatroom</h4> 
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Lorem Ipsum
             </CardText>
             <CardActions>
                 <Button colored href="https://github.com/SeanEmac" rel="noopener noreferrer" target="_blank">GitHub</Button>
